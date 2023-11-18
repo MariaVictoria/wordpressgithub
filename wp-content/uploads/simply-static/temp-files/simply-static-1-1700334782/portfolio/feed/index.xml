@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Projects &#8211; María Victoria Urcola</title>
+	<atom:link href="https://mariavictoria.github.io/wordpressgithub/portfolio/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mariavictoria.github.io/wordpressgithub</link>
+	<description>Portfolio</description>
+	<lastBuildDate>Sat, 18 Nov 2023 19:09:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+
+<image>
+	<url>https://mariavictoria.github.io/wordpressgithub/wp-content/uploads/2023/11/cropped-v-1-1-32x32.png</url>
+	<title>Projects &#8211; María Victoria Urcola</title>
+	<link>https://mariavictoria.github.io/wordpressgithub</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Project</title>
+		<link>https://mariavictoria.github.io/wordpressgithub/portfolio/projects/</link>
+					<comments>https://mariavictoria.github.io/wordpressgithub/portfolio/projects/#respond</comments>
+		
+		<dc:creator><![CDATA[Portfolio]]></dc:creator>
+		<pubDate>Sat, 18 Nov 2023 16:13:25 +0000</pubDate>
+				<guid isPermaLink="false">https://mariavictoria.github.io/wordpressgithub/?post_type=jetpack-portfolio#038;p=160</guid>
+
+					<description><![CDATA[Aquí te dejo un link directo a un proyecto en proceso de una Tienda Online de Amigurumis      VickyGurumiS]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="160" class="elementor elementor-160">
+							<div class="elementor-element elementor-element-ffbd859 e-flex e-con-boxed e-con e-parent" data-id="ffbd859" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-8e2e985 elementor-widget elementor-widget-text-editor" data-id="8e2e985" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.17.0 - 08-11-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<h3>Aquí te dejo un link directo a un proyecto en proceso de una Tienda Online de Amigurumis </h3><p> </p><p> </p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-1459154 elementor-button-info elementor-align-center elementor-widget elementor-widget-button" data-id="1459154" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://mariavictoria.github.io/Tienda/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">VickyGurumiS</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-8b2dcbb e-flex e-con-boxed e-con e-parent" data-id="8b2dcbb" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-2f8d6e5 elementor-invisible elementor-widget elementor-widget-image" data-id="2f8d6e5" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.17.0 - 08-11-2023 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img fetchpriority="high" decoding="async" width="500" height="500" src="https://mariavictoria.github.io/wordpressgithub/wp-content/uploads/2023/11/Vicky-GurumiS.png" class="attachment-full size-full wp-image-238" alt="" srcset="https://mariavictoria.github.io/wordpressgithub/wp-content/uploads/2023/11/Vicky-GurumiS.png 500w, https://mariavictoria.github.io/wordpressgithub/wp-content/uploads/2023/11/Vicky-GurumiS-300x300.png 300w, https://mariavictoria.github.io/wordpressgithub/wp-content/uploads/2023/11/Vicky-GurumiS-150x150.png 150w, https://mariavictoria.github.io/wordpressgithub/wp-content/uploads/2023/11/Vicky-GurumiS-262x262.png 262w, https://mariavictoria.github.io/wordpressgithub/wp-content/uploads/2023/11/Vicky-GurumiS-58x58.png 58w, https://mariavictoria.github.io/wordpressgithub/wp-content/uploads/2023/11/Vicky-GurumiS-50x50.png 50w" sizes="(max-width: 500px) 100vw, 500px" />															</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://mariavictoria.github.io/wordpressgithub/portfolio/projects/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
