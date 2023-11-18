@@ -1,0 +1,76 @@
+.wp-block-navigation .wp-block-navigation-item__content.wp-block-navigation-item__content {
+    padding: 18px 21px;
+  }
+  
+  @media screen and (min-width: 1000px) {
+  
+    .wp-block-navigation__submenu-icon{
+      position: absolute;
+      right: 4px;
+    }
+  }
+
+  .home a , .wp-block-site-title a ,.site-sidebar  a, .site-footer a{
+    text-decoration: none!important;
+   }
+
+   .shop-now-paragraph a{
+    color:#fff;
+}
+.shop-now-paragraph a:hover{
+  color:#e1dada;
+}
+
+/*pagination*/
+.page-numbers.current{
+  background: #E1E1E1!important;
+  padding: 8px 15px!important;
+  cursor: pointer;
+}
+
+li.page-numbers, a.page-numbers{
+  background: #F2F3F5;
+  padding: 8px 15px!important;
+  margin: 0px 1px!important;
+  line-height: 16px!important;
+}
+
+li.page-numbers:hover,a.page-numbers:hover{
+  background:#E1E1E1!important;
+
+}
+li.page-numbers.dots,span.page-numbers.dots{
+  display: none;
+}
+ul.page-numbers{
+  border: none!important;
+}
+.woocommerce nav.woocommerce-pagination ul li{
+  border-right: none;
+  float: none;
+}
+
+span.page-numbers.dots + a.page-numbers{
+ display: none;
+}
+
+.wp-block-query-pagination{
+  gap: unset;
+}
+/* pagination */
+
+
+/* side bar css goes here  */
+.cat-item a::before{
+  content: "\f022";
+  font-family: "Font Awesome 5 Free"; /* set the font family to Font Awesome */
+  font-weight: 600; 
+  margin-right: 6px;
+}
+.taxonomy-post_tag a::before{
+  content: "\f02c";
+  font-family: "Font Awesome 5 Free"; /* set the font family to Font Awesome */
+  font-weight: 600; 
+  margin-right: 6px;
+}
+/* side bar  css end here  */

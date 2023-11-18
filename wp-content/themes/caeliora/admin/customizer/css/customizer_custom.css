@@ -1,0 +1,474 @@
+.customize-control-kirki-color .kirki-input-container[data-has-alpha="false"] .iris-picker.iris-border {
+  width: 255px !important;
+}
+.wp-color-result {
+  background-image: none !important;
+}
+.wp-color-result-text {
+  padding: 3px 6px !important;
+}
+.color-alpha {
+  height: 28px !important;
+}
+
+li.repeater-row.minimized:before {
+  content: "";
+  display: inline-block;
+  float: left;
+  width: 20px;
+  height: 41px;
+}
+
+tr.acf-field.acf-field-button-group.acf-field-5f8c0f90095fe-layout {
+  border-top: 2px solid #bbb;
+}
+
+/* White logo */
+#customize-control-caeliora_header_logo_image_white .thumbnail-image {
+  background: #000000;
+}
+
+/* Caeliora panels color */
+#accordion-section-caeliora_section_header h3.accordion-section-title,
+#accordion-section-caeliora_section_homepage h3.accordion-section-title,
+#accordion-section-caeliora_section_posts h3.accordion-section-title,
+#accordion-section-caeliora_section_page h3.accordion-section-title,
+#accordion-section-caeliora_section_archive h3.accordion-section-title,
+#accordion-section-caeliora_section_footer h3.accordion-section-title,
+#accordion-panel-caeliora_core_panel_social h3.accordion-section-title,
+#accordion-section-caeliora_section_excerpt h3.accordion-section-title,
+#accordion-section-caeliora_section_mobile_menu h3.accordion-section-title,
+#accordion-panel-caeliora_panel_colors h3.accordion-section-title,
+#accordion-section-caeliora_section_fonts h3.accordion-section-title,
+#accordion-section-caeliora_section_newsletter h3.accordion-section-title,
+#accordion-section-caeliora_section_woo h3.accordion-section-title,
+#accordion-section-caeliora_section_misc h3.accordion-section-title {
+  background: #f8fbff;
+  color: #324f75;
+}
+
+/* Color Palette */
+.customize-control-kirki-palette label span:hover {
+  font-size: 0;
+  flex-grow: 1;
+  padding: 6px;
+  min-width: auto;
+}
+.customize-control-kirki-palette input[type="radio"]:checked + label {
+  border: 2px solid #000000;
+}
+.customize-control-kirki-palette label {
+  box-shadow: 0 2px 7px 0 rgba(0, 0, 0, 0.1);
+  border: none;
+  margin: 15px 0;
+}
+.customize-control-kirki-palette label span {
+  line-height: 14px;
+}
+
+/* Font settings */
+.customize-control-kirki-typography .wrapper .font-family {
+  width: 69.5%;
+}
+.customize-control-kirki-typography .wrapper .variant {
+  width: 29%;
+}
+#sub-accordion-section-caeliora_section_fonts .kirki-variant-wrapper .select2-container {
+  min-width: 60px;
+}
+#sub-accordion-section-caeliora_section_fonts .customize-control-kirki-typography .wrapper h5 {
+  margin-top: 0;
+}
+#sub-accordion-section-caeliora_section_fonts .customize-control-kirki-typography .wrapper {
+  padding: 12px 15px 18px;
+}
+
+/* General Settings box*/
+.control-section-kirki-default .customize-control,
+.control-section-kirki-nested .customize-control {
+  background: #fff;
+  padding: 10px 15px;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+}
+
+/* Upgrade to Pro panel */
+.control-section-kirki-default .customize-control-kirki-custom,
+.control-section-kirki-nested .customize-control-kirki-custom {
+  background-color: #f8fcff;
+  border: 0;
+  padding: 20px;
+}
+
+/* Headings */
+#customize-control-caeliora_home_feat_title {
+  background: none;
+  border: none;
+  box-shadow: none;
+  padding: 0;
+  margin: 12px 0 8px;
+}
+#customize-control-caeliora_home_feat_title .customize-control-title {
+  font-size: 16px;
+}
+
+/* settings description */
+#customize-controls .description {
+  color: #929292;
+}
+li[id$="_tog"] .customize-control-description {
+  margin-top: -4px;
+  margin-bottom: 10px;
+}
+
+/* Nested sections */
+
+#customize-theme-controls .control-section.open .accordion-section-title {
+  border-bottom-color: #ddd !important;
+  background: #fff !important;
+  color: #555d66;
+  border-left-color: #fff;
+}
+#customize-theme-controls .control-section.open .accordion-section-title:hover {
+  background: #f3f3f5 !important;
+  color: #0073aa !important;
+  border-left-color: #0073aa;
+}
+
+#accordion-section-caeliora_section_homepage_promo {
+  margin-bottom: 14px;
+}
+
+/* Promo boxes */
+#customize-control-caeliora_home_promo_target1,
+#customize-control-caeliora_home_promo_url1,
+#customize-control-caeliora_home_promo_subtitle1,
+#customize-control-caeliora_home_promo_title1,
+#customize-control-caeliora_home_promo_target2,
+#customize-control-caeliora_home_promo_url2,
+#customize-control-caeliora_home_promo_subtitle2,
+#customize-control-caeliora_home_promo_title2,
+#customize-control-caeliora_home_promo_target3,
+#customize-control-caeliora_home_promo_url3,
+#customize-control-caeliora_home_promo_subtitle3,
+#customize-control-caeliora_home_promo_title3,
+#customize-control-caeliora_home_promo_target4,
+#customize-control-caeliora_home_promo_url4,
+#customize-control-caeliora_home_promo_subtitle4,
+#customize-control-caeliora_home_promo_title4,
+#sub-accordion-section-caeliora_core_section_social_icons .customize-control.customize-control-kirki-toggle,
+#customize-control-caeliora_colors_header_shadow_size,
+#customize-control-caeliora_colors_featured_date_border,
+#customize-control-caeliora_colors_post_date_border,
+#customize-control-caeliora_colors_post_link_border,
+#customize-control-caeliora_colors_post_link_color_hover,
+#customize-control-caeliora_colors_post_link_border_hover,
+#customize-control-caeliora_colors_post_read_more_hover,
+#customize-control-caeliora_colors_post_read_more_border,
+#customize-control-caeliora_colors_post_read_more_border_hover,
+#customize-control-caeliora_colors_post_blockquote_icon,
+#customize-control-caeliora_colors_post_related_heading_line,
+#customize-control-caeliora_colors_footer_text_typo,
+#customize-control-caeliora_colors_post_comments_heading_line,
+#customize-control-caeliora_colors_header_menu_dropdown_text,
+#customize-control-caeliora_colors_featured_classic2_cat,
+#customize-control-caeliora_colors_featured_splitslider_cat,
+#customize-control-caeliora_colors_featured_classic2_date,
+#customize-control-caeliora_colors_header_menu_link_text,
+#customize-control-caeliora_colors_featured_splitslider_date,
+#customize-control-caeliora_colors_featured_classic2_date_border,
+#customize-control-caeliora_colors_featured_splitslider_date_border,
+#customize-control-caeliora_colors_post_blockquote_cite,
+#customize-control-caeliora_colors_post_blockquote_large_bg,
+#customize-control-caeliora_colors_post_blockquote_large_icon,
+#customize-control-caeliora_colors_post_blockquote_large_cite,
+#customize-control-caeliora_colors_palette_default,
+#customize-control-caeliora_excerpt_classic_length,
+#customize-control-caeliora_colors_topbar_shadow_size,
+#customize-control-caeliora_mobile_menu_logo_maxwidth,
+#customize-control-caeliora_colors_sidebar_title_line,
+#customize-control-caeliora_home_post_number,
+#customize-control-caeliora_home_feat_content_posts_descrip,
+#customize-control-caeliora_colors_sidebar_title_padding,
+#customize-control-caeliora_colors_sidebar_widget2_border,
+#customize-control-caeliora_colors_post_style1_margin_bottom,
+#customize-control-caeliora_colors_post_style2_margin_bottom,
+#customize-control-caeliora_colors_post_style3_margin_bottom,
+#customize-control-caeliora_colors_post_style4_margin_bottom,
+#customize-control-caeliora_colors_post_style5_margin_bottom,
+#customize-control-caeliora_colors_listgrid_grid_margin_bottom,
+#customize-control-caeliora_colors_listgrid_list_margin_bottom,
+#customize-control-caeliora_colors_featured_classic1_margin_bottom,
+#customize-control-caeliora_colors_featured_classic2_margin_bottom,
+#customize-control-caeliora_colors_featured_fullscreen_margin_bottom,
+#customize-control-caeliora_colors_featured_carousel_margin_bottom,
+#customize-control-caeliora_colors_featured_carousel_center_margin_bottom,
+#customize-control-caeliora_colors_featured_split_margin_bottom,
+#customize-control-caeliora_newsletter_sidebar_button_color_bg,
+#customize-control-caeliora_newsletter_heading_color,
+#customize-control-caeliora_slider_newsletter_heading_color,
+#customize-control-caeliora_slider_newsletter_button_color_bg,
+#customize-control-caeliora_colors_featured_static_button_sizing,
+#customize-control-caeliora_colors_featured_static_button,
+#customize-control-caeliora_colors_featured_static_classic_margin_bottom,
+#customize-control-caeliora_colors_featured_static_fullscreen_margin_bottom,
+#customize-control-caeliora_colors_sidebar_social_icon,
+#customize-control-caeliora_colors_post_style5_bg_bottom,
+#customize-control-caeliora_footer_logo_link_target,
+#customize-control-caeliora_footer_logo_link,
+#customize-control-caeliora_footer_logo_max_width,
+#customize-control-caeliora_footer_logo,
+#customize-control-caeliora_post_related_amount,
+#customize-control-caeliora_colors_misc_blog_heading_border,
+#customize-control-caeliora_home_feat_autoplay_speed {
+  margin-top: -14px;
+  border-top: none;
+}
+.control-section-kirki-default li[id$="_font_toggle"],
+.control-section-kirki-nested li[id$="_font_toggle"] {
+  margin-top: -14px;
+  border-top: none;
+}
+
+.control-section-kirki-default li[id$="_font"],
+.control-section-kirki-nested li[id$="_font"] {
+  margin-top: -28px;
+  border-top: none;
+}
+
+/* Setting toggles */
+.accordion-section li[id$="_tog"] .customize-control-title:hover {
+  background: #f6f6f6;
+}
+.accordion-section li[id$="_tog"] {
+  margin-top: -16px;
+}
+.accordion-section li[id$="_tog"] .customize-control-title:after {
+  content: "+";
+  font-size: 20px;
+  float: right;
+  margin-top: -2px;
+  color: #1f85ba;
+}
+.accordion-section li[id$="_tog"] .customize-control-title.show:after {
+  content: "-";
+}
+.accordion-section li[id$="_tog"] .wrapper {
+  display: none;
+}
+.accordion-section li[id$="_tog"] .wrapper.show {
+  display: flex;
+}
+
+/* Setting toggle font section */
+.accordion-section li[id$="_tog"].customize-control {
+  margin-bottom: 6px;
+}
+.accordion-section li[id$="_tog"].customize-control-kirki-typography .wrapper {
+  padding: 10px 15px 18px;
+  border: none !important;
+  margin: 0 -15px;
+}
+.accordion-section li[id$="_tog"] {
+  margin-top: 0;
+}
+.accordion-section li[id$="_tog"] .customize-control-title {
+  margin: 0 -15px -1px;
+  padding: 9px 15px 10px;
+  border-bottom: 1px solid #ddd;
+}
+.accordion-section li[id$="_tog"].caeliora-open .customize-control-title {
+  margin-bottom: 0;
+}
+.accordion-section li[id$="_tog"].caeliora-open .customize-control-description {
+  padding-bottom: 4px;
+  cursor: auto;
+}
+.accordion-section li[id$="_tog"] .customize-control-title:after {
+  position: absolute;
+  top: 2px;
+  right: 15px;
+  width: 46px;
+  padding: 1px 0 7px;
+  margin-right: -15px;
+  background: #f6f6f6;
+  border-left: 1px solid #ddd;
+  text-align: center;
+}
+.control-section-kirki-nested li[id$="_tog"].customize-control,
+.control-section-kirki-default li[id$="_tog"].customize-control {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.accordion-section li[id$="_tog"] .customize-control-description {
+  margin: 0 -15px;
+  padding: 10px 15px;
+  display: none;
+}
+.accordion-section li[id$="_tog"] .customize-control-description.show {
+  display: block;
+}
+
+#sub-accordion-section-caeliora_section_colors_post_header li[id$="_tog"].customize-control,
+#customize-control-caeliora_colors_post_title_heading,
+#customize-control-caeliora_colors_page_title_heading,
+#sub-accordion-section-caeliora_section_colors_featured li[id$="_tog"].customize-control,
+#customize-control-caeliora_colors_featured_title_heading,
+#sub-accordion-section-caeliora_section_colors_listgrid_grid li[id$="_tog"].customize-control,
+#customize-control-caeliora_colors_listgrid_grid_title_heading,
+#sub-accordion-section-caeliora_section_colors_listgrid_list li[id$="_tog"].customize-control,
+#customize-control-caeliora_colors_listgrid_list_title_heading,
+#sub-accordion-section-caeliora_section_fonts li[id$="_tog"].customize-control {
+  margin-bottom: -1px;
+}
+li#customize-control-caeliora_colors_page_title_heading,
+#customize-control-caeliora_colors_post_cat,
+#customize-control-caeliora_colors_featured_cat,
+#customize-control-caeliora_colors_listgrid_grid_excerpt,
+#customize-control-caeliora_colors_listgrid_list_excerpt {
+  margin-top: 15px;
+}
+
+/* Font sections */
+#sub-accordion-section-caeliora_section_fonts #customize-control-caeliora_fonts_widget_heading_tog,
+#sub-accordion-section-caeliora_section_fonts #customize-control-caeliora_fonts_post_title_tog,
+#sub-accordion-section-caeliora_section_fonts #customize-control-caeliora_fonts_primary_tog,
+#customize-control-caeliora_fonts_promo1_tog,
+#customize-control-caeliora_fonts_featured_static_title_tog {
+  margin-top: 45px;
+}
+#sub-accordion-section-caeliora_section_fonts #customize-control-caeliora_fonts_primary_tog,
+#customize-control-caeliora_post_grid_show_cat,
+#customize-control-caeliora_post_list_show_cat {
+  margin-top: 35px;
+}
+
+/* Font section headings */
+#customize-control-caeliora_fonts_post_fonts {
+  background: none;
+  border: none;
+}
+#customize-control-caeliora_fonts_widget_heading_tog:before,
+#customize-control-caeliora_fonts_post_title_tog:before,
+#customize-control-caeliora_fonts_primary_tog:before,
+#customize-control-caeliora_fonts_promo1_tog:before,
+#customize-control-caeliora_post_grid_show_cat:before,
+#customize-control-caeliora_post_list_show_cat:before,
+#customize-control-caeliora_fonts_featured_static_title_tog:before {
+  display: block;
+  position: absolute;
+  top: -28px;
+  left: 0px;
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 1.5px;
+  font-weight: 600;
+  color: #929292;
+}
+
+#customize-control-caeliora_fonts_widget_heading_tog:before {
+  content: "Widget Fonts";
+}
+#customize-control-caeliora_fonts_post_title_tog:before {
+  content: "Post & Page Fonts";
+}
+#customize-control-caeliora_fonts_primary_tog:before {
+  content: "General Fonts";
+}
+#customize-control-caeliora_fonts_primary_tog:before {
+  content: "General Fonts";
+}
+#customize-control-caeliora_fonts_promo1_tog:before {
+  content: "Promo Box Fonts";
+}
+#customize-control-caeliora_post_grid_show_cat:before {
+  content: "Grid Posts";
+}
+#customize-control-caeliora_post_list_show_cat:before {
+  content: "List Posts";
+}
+#customize-control-caeliora_fonts_featured_static_title_tog:before {
+  content: "Static Featured Slider";
+}
+
+/* Refresh note */
+#customize-control-caeliora_home_feat_exclude_note {
+  margin-top: -16px;
+  background: #f7f7f7;
+}
+#customize-control-caeliora_home_feat_exclude_note label strong {
+  color: #555d66;
+}
+
+/* Combine settings */
+#customize-control-caeliora_colors_sidebar_border,
+#customize-control-caeliora_colors_sidebar_link_color_hover {
+  margin-top: -26px;
+  border-top: none;
+}
+#customize-control-caeliora_colors_sidebar_title_bg,
+#customize-control-caeliora_colors_sidebar_about_heading_line,
+#customize-control-caeliora_colors_sidebar_about_subheading {
+  margin-top: -14px;
+}
+
+/* Radio images */
+#customize-control-caeliora_post_layout img,
+#customize-control-caeliora_post_content_layout img,
+#customize-control-caeliora_page_content_layout img,
+#customize-control-caeliora_page_layout img,
+#customize-control-caeliora_home_layout img,
+#customize-control-caeliora_archive_layout img,
+#customize-control-caeliora_search_layout img,
+#customize-control-caeliora_home_promo_layout img,
+#customize-control-caeliora_home_feat_layout img,
+#customize-control-caeliora_video_post_layout img,
+#customize-control-caeliora_gallery_post_layout img {
+  margin: 12px 18px 0 0;
+}
+.customize-control-kirki-radio-image input:checked + label img {
+  box-shadow: 0 0 8px 2px rgba(0, 0, 0, 0.15);
+  border-color: #000;
+}
+
+/* Featured area */
+.caeliora_home_feat_layoutstatic-classic:before {
+  content: "Static Sliders:";
+  display: block;
+  font-weight: 700;
+  margin-top: 15px;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #999;
+}
+.caeliora_home_feat_layoutstatic-fullscreen:before {
+  content: "";
+  display: block;
+  height: 18px;
+  margin-top: 15px;
+}
+#customize-control-caeliora_home_feat_static_slides .repeater-field {
+  border-bottom: none;
+  padding-bottom: 6px;
+  margin-bottom: 6px;
+}
+#customize-control-caeliora_home_feat_static_slides .repeater-field-slide_content textarea {
+  height: 90px;
+}
+#customize-control-caeliora_home_feat_static_slides .repeater-field-slide_title textarea,
+#customize-control-caeliora_home_feat_static_slides .repeater-field-slide_subtitle textarea {
+  height: 50px;
+}
+#customize-control-caeliora_core_insta_shortcode {
+  background: #fff0dc;
+  border-color: #ceb798;
+  padding-bottom: 15px;
+}
+#customize-control-caeliora_core_insta_shortcode .description {
+  color: #a08d73;
+  font-style: normal;
+}
+#customize-control-caeliora_core_insta_shortcode .customize-control-content input[type="text"] {
+  border-color: #ceb798;
+}

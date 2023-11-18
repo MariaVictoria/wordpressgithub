@@ -1,0 +1,56 @@
+.caeliora-welcome h1 {
+  margin: 0.2em 200px 0 0;
+  padding: 0;
+  color: #32373c;
+  line-height: 1.2em;
+  font-size: 3.2em;
+  font-weight: 400;
+}
+.caeliora-welcome h1 small {
+  font-size: 22px;
+  color: #777;
+}
+.caeliora-welcome {
+  position: relative;
+  margin: 35px 30px 0 20px;
+  max-width: 1050px;
+}
+
+.welcome-text {
+  font-size: 19px;
+  color: #666;
+
+  margin: 10px 0 30px;
+}
+.welcome-heading {
+  margin: 60px 0 30px;
+  font-size: 24px;
+}
+.welcome-wrap {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 0 20px;
+}
+.welcome-wrap.support {
+  grid-template-columns: repeat(2, 1fr);
+}
+.welcome-column {
+  padding: 25px;
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+}
+.welcome-column h2 {
+  margin-top: 0;
+  font-size: 1.6em;
+}
+.welcome-column p {
+  margin-bottom: 22px;
+  font-size: 15px;
+}
+.plugin-success {
+  color: green;
+  position: relative;
+  top: 3px;
+  margin-left: 4px;
+}
