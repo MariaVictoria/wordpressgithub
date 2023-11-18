@@ -1,0 +1,275 @@
+/**
+
+Theme Name: Sneak Lite
+Description: Sneak Lite is a clean, minimal and responsive SuevaFree child theme, based on Bootstrap framework, with a new menu and buttons style and a different layout for the elements like sidebar and with a new fonts. Now is ecommerce ready and is optimized to work with WooCommerce and Contact Form 7 plugins.
+Author: ThemeinProgress.
+Author URI: https://www.themeinprogress.com
+Version: 3.1.7
+Requires PHP: 5.3
+Tested up to: 6.2
+Template: suevafree
+Tags: custom-background, custom-colors, custom-logo, custom-menu, featured-images, footer-widgets, post-formats, right-sidebar, sticky-post, theme-options, threaded-comments, translation-ready, one-column, two-columns, three-columns, grid-layout, blog, e-commerce, news
+Text Domain: sneak-lite
+Domain Path: /languages
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+Sneak Lite WordPress Theme is a child theme of SuevaFree Theme, Copyright 2023 ThemeinProgress.
+Sneak Lite is distributed under the terms of the GNU GPLv3.
+SuevaFree WordPress Theme, Copyright 2023 ThemeinProgress.
+SuevaFree is distributed under the terms of the GNU GPLv3.
+
+*/
+
+/* ===============================================
+   GENERAL
+   =============================================== */
+
+a:hover ,
+a:active ,
+a:focus {
+	text-decoration:none;
+	border-bottom:none;
+	outline:none;
+}
+
+a:hover,
+#footer a:hover {
+	color:#ff6644;
+}
+
+/* ===============================================
+   BUTTONS
+   =============================================== */
+
+span.button,
+.wpcf7-form input[type=submit] ,
+.comment-form input[type=submit] ,
+.contact-form input[type=submit] {
+	background-color:#fff;
+	color:#ff6644;
+	border:solid 1px #ff6644;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+	font-size:14px;
+	text-transform:none;
+	font-weight:normal;
+	min-width:120px;
+	padding:12px 14px;
+}
+
+span.button:hover,
+.post-article span.button:hover,
+.wpcf7-form input[type=submit]:hover ,
+.comment-form input[type=submit]:hover ,
+.contact-form input[type=submit]:hover {
+	background-color:#d14a2b;
+	color:#fff;
+	border:solid 1px #d14a2b;
+}
+
+.wpcf7-form input[type=submit] ,
+.comment-form input[type=submit] ,
+.contact-form input[type=submit] {
+	margin:0;
+}
+
+.header-cart-widget .buttons a,
+.header-cart-widget .woocommerce.widget_shopping_cart a.button {
+	color:#ff6644 !important  ;
+}
+
+div.wpcf7 .ajax-loader {
+    display: block;
+}
+
+/* ===============================================
+   TYPOGRAPHY
+   =============================================== */
+
+p,
+li,
+address,
+dd,
+blockquote,
+td,
+th,
+.textwidget,
+a.post-edit-link,
+.button,
+#footer a,
+#footer p,
+#footer li,
+#footer address,
+#footer dd,
+#footer blockquote,
+#footer td,
+#footer th,
+#footer .textwidget,
+#sidebar p,
+#sidebar li,
+#sidebar address,
+#sidebar dd,
+#sidebar blockquote,
+#sidebar td,
+#sidebar th,
+#sidebar .textwidget,
+#logo a span,
+.suevafree-menu ul li a,
+.suevafree-menu ul ul li a,
+.comment-author .author,
+h3#reply-title small, .logged-in-as,
+.contact-form input[type=text], .contact-form textarea,
+.contact-form input[type=submit],
+.post-article blockquote p,
+.entry-tags,
+.entry-info,
+#footer ul.widget-category li,
+#wp-calendar th,
+#wp-calendar
+#today,
+#wp-calendar
+#today a,
+#wp-calendar caption,
+#sidebar .tagcloud a,
+#footer .tagcloud a,
+.select-menu,
+.article-header,
+.comment-container,
+.wp-pagenavi a,
+.wp-pagenavi a:link,
+.wp-pagenavi span.current {
+	font-family:'Roboto Slab',Verdana, Geneva, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h1.title,
+h2.title,
+h3.title,
+h4.title,
+h5.title,
+h6.title,
+h1.title a,
+h2.title a,
+h3.title a,
+h4.title a,
+h5.title a,
+h6.title a,
+h3#reply-title,
+h3.comments {
+	font-family:'Fjalla One',Verdana, Geneva, sans-serif;
+}
+
+
+/* ===============================================
+   HEADER
+   =============================================== */
+
+#logo a:hover {
+	color:#ff6644;
+}
+
+.suevafree-menu {
+    margin: 0 0 15px 0 !important;
+}
+
+.suevafree-menu ul li {
+    margin-bottom: 10px !important;
+}
+
+.suevafree-menu ul ul li {
+    margin-bottom: -5px !important;
+}
+
+/* ===============================================
+   CONTENTS
+   =============================================== */
+
+.post-article blockquote {
+	border-color:#ff6644;
+}
+
+.post-container .title a:hover {
+	color:#ff6644;
+	text-decoration:none;
+	border:none;
+	outline:none;
+}
+
+.pin-container:after {
+	display:none;
+}
+
+.pin-container,
+.post-container .post-article {
+	border-radius: 0;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+}
+
+.line:before {
+	background-color: #ddd;
+}
+
+footer.line {
+	border:none;
+}
+
+footer.line .entry-info,
+footer.line .tags {
+	margin:0;
+	padding:0 15px;
+	text-align:left;
+}
+
+.categories {
+	margin-top:40px;
+}
+
+h3#reply-title,
+h3.comments {
+	text-transform:none;
+	padding:0;
+	background:none;
+	font-weight:400
+}
+
+.logged-in-as {
+	text-transform:none;
+}
+
+h3#reply-title, h3.comments {
+	margin-bottom:55px;
+}
+
+.wp-caption {
+	max-width: 100% !important;
+}
+
+/* ===============================================
+   WOOCOMMERCE
+   =============================================== */
+
+.woocommerce #respond input#submit.loading::after,
+.woocommerce a.button.loading::after,
+.woocommerce button.button.loading::after,
+.woocommerce input.button.loading::after {
+    top: auto;
+}
+
+@media screen and (min-width : 0px) and (max-width : 992px)  {
+
+	.line:before {
+		background:none;
+	}
+
+}

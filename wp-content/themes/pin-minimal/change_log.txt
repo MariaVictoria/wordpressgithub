@@ -1,0 +1,13 @@
+Version 1.0
+i)   Initial version Release
+
+Version 1.1
+i)   Resolved all issue as reviewer pointed.
+
+Version 1.2
+i)   Integrated with SKT Templates.
+
+Version 1.3
+i)    Compatibility with WordPress 6.1
+ii)   Resolved Home Page Service Box Hover Issue.
+iii)  Resolved Theme Check Issue.
